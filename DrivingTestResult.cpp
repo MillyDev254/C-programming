@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    string studentName
+    string studentName;
     double theoryMarks,practicalMarks,averageScore;
 
     cout<<"Enter studentName:";
